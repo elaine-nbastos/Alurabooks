@@ -40,3 +40,9 @@
         font-size: 24px;
     }
 }
+
+@media (min-width: 1718px){
+    .topicos{
+        padding: 3em 25vw;
+    }
+}
