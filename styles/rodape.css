@@ -45,8 +45,7 @@ hr{
         font-size: 24px;
     }
 }
-
-@media (min-width: 1728px){
+@media screen and (min-width: 1728px){
 
     .lista-rodape{
         border-left: 1px solid var(--cinza-claro);

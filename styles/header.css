@@ -78,7 +78,7 @@
     display: none;
 }
 
-@media (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
 
     .container__titulo,
     .container__titulo--negrito {
@@ -147,7 +147,7 @@
 
 }
 
-@media (min-width: 1728px) {
+@media screen and (min-width: 1728px) {
 
     .container__link {
         display: flex;

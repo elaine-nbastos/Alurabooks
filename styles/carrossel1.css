@@ -77,7 +77,8 @@
     margin-bottom: 0.5em;
 }
 
-@media (min-width: 1024px) {
+
+@media screen and (min-width: 1024px) {
 
     .carrossel__titulo{
         font-size: 26px;
@@ -103,8 +104,7 @@
     }
 
 }
-
-@media (min-width: 1724px) {
+@media screen and (min-width: 1724px) {
 
     .carrossel__container {
         display: flex;
